@@ -1,6 +1,3 @@
-# Olá, Mundo!
- Primeiro repositório do curso de git e github
+# Casamento Lincoln S2 Cintia!
 
- Repositório criado durante uma aula ao vivo
- 
- Essa Linha eu Adicionei diretamente no site.
+
